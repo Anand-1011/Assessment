@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Galytix-Assesment\CountryGwp.Api.csproj" />
+    <ProjectReference Include="..\CountryGwp.Api\CountryGwp.Api.csproj" />
   </ItemGroup>
 
   <ItemGroup>
