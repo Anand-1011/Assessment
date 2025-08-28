@@ -1,0 +1,6 @@
+@Galytix_Assesment_HostAddress = http://localhost:5211
+
+GET {{Galytix_Assesment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
